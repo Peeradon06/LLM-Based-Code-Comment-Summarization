@@ -1,0 +1,815 @@
+comment_text,satd,comment_length
+"// if we are the dest and is a call action, create the  // activation, but don't add it until the height is set.",0,112
+// TR#18 1.2,0,12
+//Ignore manifest entries.  They're bound to cause conflicts between //files that are being merged.  User should supply their own //manifest file when doing the merge.,0,167
+"//NOTE: unlike all other Loaders, this one is NOT //      multithreaded, or cacheable!!",0,87
+// no error as default,0,22
+"// Although the default is not the same as for the string value, it is only used internally",0,91
+// SHAPES FILLED,0,16
+// i18n[mssql.fileOptions=File Options],0,39
+//{{{ Private members,0,21
+//}}},0,5
+// this is expected,0,19
+// test that the string is valid by converting it into an // object of this data type,0,85
+// Note: if we want methods declared inside blocks to be accessible via // this.methodname() inside the block we could handle it here as a // special case.  See also resolveThisFieldReference() special handling // for BlockNameSpace case.  They currently work via the direct name // e.g. methodName().,0,301
+//}}},0,5
+////////////////////////////////////////////////////////////////////// // Error reporting. //////////////////////////////////////////////////////////////////////,0,161
+"/*
+     * @see org.argouml.uml.ui.UMLModelElementListModel2#buildModelList()
+     */",0,84
+// Set the static bsh This callback ,0,36
+// garbage collected,0,20
+// $NON-NLS-1$,0,14
+// UndefinedMethod should be immutable,0,38
+"// In column 0, the drop-down is indented past the collapse/expand icon. //",0,75
+// this is the only case it might be null here (in MetaClass construction),0,74
+// line 984,0,11
+"/**
+     * Prefix identified as an implementation specific class.
+     * TODO: This should be generalized so it doesn't have to be changed
+     * each time a new implementation is created - tfm 20051109
+     */",1,210
+//$NON-NLS-1$,0,13
+//$NON-NLS-1$,0,13
+"//     c.gridy = 0; //     c.gridx = 4; //     JLabel threeLabel = new JLabel(""asd""); //     gb.setConstraints(threeLabel, c); //     _mainPanel.add(threeLabel);",0,161
+"// If we get this with the repository locked, it means our root // model element was already deleted.  Nothing to do...",0,119
+// build ui,0,11
+"// shift the decimal point just to the right of the digit to be rounded to (divide by 10**(abs(scale))) // -1 -> 10's digit, -2 -> 100's digit, etc.",0,148
+"// we can't use the following valueOf() method, because it // won't compile with JDK1.4 // this.colorsPool.get(Integer.valueOf(awtColor.getRGB()));",0,147
+// exit immediately,0,19
+// This while loop is for restarting the block call in case a 'redo' fires.,0,75
+// impossible as getMethods should only return public methods,0,61
+// put the data and header names into the model,0,47
+// preferences from the last session,0,36
+// ignore,0,9
+// reduce the default margins,0,29
+"/*
+     * @see org.argouml.ui.targetmanager.TargetListener#targetAdded(org.argouml.ui.targetmanager.TargetEvent)
+     */",0,120
+// Actor,0,8
+// getting current node (under the selection),0,45
+// line 876,0,11
+"// get ""self""",0,13
+// Available specification version must be >= required,0,54
+// get selected row,0,19
+// bsh.cwd,0,10
+// Parsed request headers,0,25
+"// Not all Oracle's, just 10g and above.",0,40
+// Only encode strings if outVersion = 1.0 //$NON-NLS-1$,0,56
+//}}},0,5
+//{{{ getEOLMarkerColor() method,0,32
+// valuePaint,0,13
+// If the user wants to select for Right mouse clicks then change the selection before popup appears,0,100
+//add the gen files to the collection,0,37
+"//  // options.xml // //<options> // <gui> //  <messageviewer inline_attachments=""false""> //   <smilies enabled=""true"" /> //   <quote color=""0"" enabled=""true"" /> //  </messageviewer> //  <tree> //   <sorting sorted=""true"" ascending=""true"" comparator=""alphabetic"" /> //  </tree> // </gui> // <html prefer=""true"" /> // <markasread delay=""2"" enabled=""true"" /> // <headerviewer style=""0"" headerfields=""Subject Date Reply-To From To Cc Bcc"" /> //</options>",0,451
+"// Just append all the parameter values, and use that as the post body",0,70
+"// caching constructors, as they're accessed for each new instance",0,66
+//Create spinner for update period,0,34
+"/*
+     * @see javax.swing.ListModel#getElementAt(int)
+     */",0,62
+// add the discriminator,0,24
+// iterate through the datasets that map to the axis and get the union // of the ranges.,0,88
+// updating the actions,0,23
+// Assume success,0,17
+// delete temporay file,0,23
+// chart title // domain axis label // range axis label // data // orientation // include legend // tooltips? // URLs?,0,118
+"/* (non-Javadoc)
+	 * @see org.columba.core.search.api.ISearchResult#getLocation()
+	 */",0,86
+// check null argument...,0,25
+//{{{ Instance variables,0,24
+// Return StringBuffer content as a large String,0,48
+"/* (non-Javadoc)
+	 * @see net.sourceforge.squirrel_sql.client.util.IOptionPanel#getPanelComponent()
+	 */",0,104
+"// In the case of two arguments, MRI will discard the portion of // the first argument after a decimal point (i.e., ""floor""). // However in the case of a single argument, any portion after // the decimal point is honored.",0,221
+"/*
+	 * @see javax.swing.table.TableModel#getRowCount()
+	 */",0,59
+// Do this if you want to prohibit dropping onto the drag source...,0,67
+"//TODO: cache the persister, this shows up in yourkit",1,53
+// axis line visible...,0,23
+// TODO: check threshold,1,24
+"// value is a simple string representation of the data, // the same one used in Text and in-cell operations.",0,108
+// shouldn't be possible,0,24
+// Do nothing,0,13
+"// If no project was entered on the command line, // try to reload the most recent project if that option is true",0,113
+"/*
+         * @see java.awt.event.ActionListener#actionPerformed(java.awt.event.ActionEvent)
+         */",0,104
+// FocusManager.getInstance().delete();,0,39
+"/*
+     * @see tudresden.ocl.check.types.Type#navigateParameterized(
+     *         java.lang.String, tudresden.ocl.check.types.Type[])
+     */",0,143
+// null object ref is not instance of any type,0,46
+"//The target DBMS, could be Mimer SQL Engine, Oracle, ... //This is optional. If you don't want to give out this info, please enter ""N/A""",0,137
+// Transfer bytes from the ZIP file to the output file,0,54
+// Update the Virtual Header,0,28
+//{{{ isMainThread() method,0,27
+"// Since the user only wants to be notified of updates at startup, return here, thereby  // freeing up the thread.",0,114
+// Static initializer for archiveSchemes.,0,41
+"// IRubyObject, DynamicMethod, RubyClass, CacheEntry, ThreadContext, IRubyObject, IRubyObject, String, args",0,107
+//MessageNode getMessageNode(Object uid);,0,41
+// Fill 7 of value (byte) -19,0,29
+// Set the tooltip string:,0,26
+// WEB REQUEST PANEL,0,20
+"// If the flag will straddle two fields, bump it to the next one. //",0,68
+"/*
+     * @see org.tigris.gef.presentation.Fig#getLineWidth()
+     */",0,69
+//}}},0,5
+// The name of the meta type is the class name (after the last .) // and before the next $ or end of class name.,0,112
+// evaluate a method declaration,0,32
+"// If it's an interface, then it will be treated as an EClass //",0,64
+//}}},0,5
+// Remove all the series from the collection and notify listeners.,0,66
+// close button only there if 'temp' is true,0,44
+//$NON-NLS-1$,0,13
+//}}},0,5
+// Guaranteed to return a non-null array,0,40
+//}}},0,5
+// fall through to normal processing of this key stroke,0,55
+// load all internal addressbook plugins,0,40
+// didn't receive any response,0,30
+// Do update on Enter,0,21
+// File name/path match,0,23
+//}}},0,5
+"// Loaded entity instances, by EntityKey",0,40
+"/*
+     * @see org.argouml.uml.ui.UMLComboBoxModel#getSelectedModelElement()
+     */",0,84
+// superclass does not use types,0,32
+// empty implementation - we only handle mouseClicked,0,53
+//yySindex 945,0,14
+//{{{ getSelectedFiles() method,0,31
+// // *****  Check the result  ***** //,0,39
+// Java and MRI definitions of remainder are the same.,0,54
+// todo : this eventually needs to be removed,1,45
+// does nothing - override if necessary,0,39
+// -G,0,5
+// expect(session.getMessageHandler()).andReturn(messageHandler).anyTimes();,0,76
+"/*
+     * @see org.argouml.uml.ui.UMLModelElementListModel2#isValidElement(Object)
+     */",0,90
+//{{{ Soft tabs,0,15
+// call the function in the app code that checks for unexpected // conditions in the current DB,0,95
+// nothing to do,0,16
+// TODO: Before adding a new region make the last region // its minimum size (smallest size that will still // contain all enclosed),1,132
+// vertical light gray column separator line,0,44
+// EQ == 0 (i.e. false),0,23
+// create all of the gui objects now,0,36
+// All needed to ensure re-usablility,0,37
+//}}},0,5
+"/* Let's create a class with the given name, otherwise
+         * the user will not understand why we refuse his input! */",0,122
+//Add begin,0,11
+//}}},0,5
+"// Don't use ""real"" type. Axion sets the column size to 12 by default, // yet it can handle more precision. So data being copied from the real // column can potentially be larger than what the column claims to support. // This will be a problem for other databases that pay attention to the // column size. // TODO: Perhaps re-introduce the REAL type, but use the new // getPrecisionDigits to max out the precision.",1,415
+// Disable DELETE and BROWSE buttons if there are no rows in // the table to delete.,0,84
+//ItemProvider/newChildDescriptorsReferenceDelegatedFeature.override.javajetinc,0,79
+"/**
+ * This class represents a Pool of Swimlanes for Activity diagrams. This is
+ * exists only to act as the GEF style encloser. Other nodes in the same
+ * must be placed entirely within or outside the boundaries of this Fig
+ * but cannot intersect with the boundary. <p>
+ * TODO: There is no actual model element being represented here so we are
+ * inheriting a lot of behaviour from FigNodeModelElement that we don't want.
+ * We require to split FigNodeModelElement to separate the code that requires
+ * a model element owner. See issue ... <p>
+ * Remark mvw: Why not give it an owner instead? The ActivityGraph 
+ * is the obvious candidate, or maybe the top state.
+ *
+ * @author mkl
+ */",1,689
+// Reset the position.,0,22
+// tests with values,0,20
+// here we tweak the notify flag on the plot so that only // one notification happens even though we update multiple // axes...,1,127
+// Create package meta-data objects,0,35
+// ---- otherPOBoxLabel ----,0,28
+// createSubMenu();,0,19
+//,0,2
+"// now overwrite group ""G2""...",0,30
+// Web Methods,0,14
+// TODO: I18N required,1,22
+"// TODO: This and recacheRespondsTo needed to be synchronized for JRUBY-3466, // but this degraded performance nearly 2x. It's still faster than MRI, but // a reanalysis of this code may show a faster way to ensure we're caching // safely.",1,239
+// break the classLocations into its components.,0,48
+//{{{ isBackgroundMode() method,0,31
+// Local update directory,0,25
+/*value*/,0,9
+/*@bgen(jjtree) StatementExpressionList */,0,42
+"/*
+     * (non-Javadoc)
+     *
+     * @see org.apache.jmeter.testelement.TestStateListener#testEnded()
+     */",0,110
+//  Set HTTP headers,0,20
+//Make the renderer reappear.,0,29
+//,0,2
+// check if the line segments intersect,0,39
+// return an empty Type array,0,29
+// i18n[popupeditableIoPanel.errWhileExecutin=Error while executing command.\nThe command was:\n {0}\nThe error was:\n{1}],0,122
+// This is a tool window.,0,25
+"/*
+     * Necessary since GEF contains some errors regarding the hit subject.
+     *
+     * @see org.tigris.gef.presentation.Fig#hit(Rectangle)
+     */",0,151
+// now check autoPopulate==true,0,31
+"/*
+     * @see org.argouml.uml.ui.UMLModelElementListModel2#isValidElement(Object)
+     */",0,90
+"/*
+	 * Get control panels to let user adjust properties
+	 * on DataType classes.
+	 */",0,85
+//      create Command reference,0,32
+//no mapper? use the identity policy,0,36
+// CheckStyle:VisibilityModifier OFF - bc,0,41
+// CompletionInfos are still loading,0,36
+// i18n[UpdatePreferencesPanel.localPathLabel=Local Path:],0,58
+"/*
+     * @see org.argouml.cognitive.Poster#supports(org.argouml.cognitive.Decision)
+     */",0,92
+//{{{ sort() method,0,19
+//}}},0,5
+"// deletes the last "", """,0,24
+//{{{ Marker methods,0,20
+"//System.err.println(""Merge '""+previous+""' and '""+tok+""'."");",0,60
+//{{{ getProperties() method,0,28
+//}}},0,5
+//_x = x; _y = y; _w = w; _h = h;,0,33
+// CRC // compressed length // uncompressed length,0,50
+//}}},0,5
+// needed to prevent an infinite loop,0,37
+// execute java process,0,23
+"/* (non-Javadoc)
+	 * @see javax.swing.table.AbstractTableModel#getColumnName(int)
+	 */",0,86
+// $NON-NLS-1$,0,14
+// Restarts,0,11
+// variables // ======================================================================== // non visible // ------------------------------------------------------------------------ // Logger for this class,0,204
+//{{{ loadStyles() method,0,25
+// Use the actual class so the name must be correct.,0,52
+// Site type,0,12
+"/* call sp_help on the stored procedure, then look at the second ResultSet for 
+                     * the parameter information. */",0,132
+// Not yet ready // DataImportGlobalPreferencesTab tab = new DataImportGlobalPreferencesTab(); // return new IGlobalPreferencesPanel[] { tab };,1,143
+// aload_0,0,10
+// no appropriate suite method found. We don't report any // error here since it might be perfectly normal.,0,107
+/* Set the drop location in the case of D&D: */,0,47
+// Nothing specified -> Fail,0,28
+// File::Constants module is included in IO.,0,44
+"/*
+     * @see org.argouml.ui.explorer.rules.PerspectiveRule#getDependencies(
+     *         java.lang.Object)
+     */",0,118
+// SSS FIXME: Should I have a reference to the IR_loop that is being retried?,1,77
+// this.addressbookModel = addressbookModel;,0,44
+//////////////////////////////////////////////////////////////// // MutableGraphModel implementation,0,100
+//TODO: make a new history item,1,31
+// not needed,1,13
+// not specified,0,16
+// $NON-NLS-1$ // default value: 60 secs ,0,41
+// implement the recursion for getClassImpl(),1,45
+// Create type parameters,0,25
+//private boolean autoRangeStickyZero;,0,38
+// draw vertical lines,0,22
+"/* Determine installation directory.
+		 * If the jedit.home property is set, use that.
+		 * Then, look for jedit.jar in the classpath.
+		 * If that fails, assume this is the web start version. */",0,195
+/* whether nulls are allowed or not */,0,38
+//{{{ Private members,0,21
+// not needed,1,13
+//}}},0,5
+// shall we switch to SSL?,0,26
+// get first selected message,0,29
+"// if we're not the ""argument scope"" for zsuper, try our parent",0,63
+//}}},0,5
+// get the soap:operation,0,25
+"/*
+     * @see org.argouml.uml.cognitive.critics.CrUML#predicate2(
+     *      java.lang.Object, org.argouml.cognitive.Designer)
+     */",0,136
+// set the name to a different value,0,36
+// Only show actions for associations not already on diagram,0,60
+// Create the font-change dialog,0,32
+/*isInterface*/,0,15
+/* fonts = getToolkit().getFontList(); */,0,41
+"// If the expression list has exactly one expression, and the type of the expression is a collection // then this might be a collection function, such as index(c) or size(c).",0,174
+// $NON-NLS-1$,0,14
+// Catch errors and rethrow as ConversionException so we get location details,0,77
+// work around for broken FTP plugin!,1,37
+"/*
+     * @see java.awt.event.MouseMotionListener#mouseMoved(java.awt.event.MouseEvent)
+     */",0,95
+// FIXME: for some reason this dispatcher causes a VerifyError... //classClass.dispatcher = callbackFactory.createDispatcher(classClass);,1,137
+// if we get here we have failed,0,32
+// Uh-oh!  We shouldn't have more than one plugin registering a  // custom exception handler for a given session.  The first one  // wins and all others get an error message.,0,174
+// ------------------------------------------------------------------------,0,75
+"// RDMS has no known variation of a ""SELECT ... FOR UPDATE"" syntax...",0,69
+"//Check to see that the file with name ""name"" exists.",0,53
+// Should never come here,0,25
+// i18n[UpdatePreferencesPanel.enableAutoUpdate=Enable Automatic Updates],0,73
+// note: (absolutePath || authority == null) -> hierarchical // (authority == null && device == null && !absolutePath) -> scheme == null,0,136
+"/*
+     * @see java.util.List#addAll(int, java.util.Collection)
+     */",0,71
+// i18n[oracle.sortsPerExec=Sorts per Exec],0,43
+// $NON-NLS-1$ add zero padding,0,31
+// return,0,9
+//}}},0,5
+// delegate 'info' and 'source' argument checks...,0,50
+// Guaranteed to return a non-null array,0,40
+// Method created to increase the performance of regular expressions // by reducing the length of the string that is matched. //,0,128
+// not the requested type,0,25
+// For b.foo,0,12
+//MappingImpl,0,13
+// Guaranteed to return a non-null array,0,40
+// try null calendar,0,20
+//remove the .class,0,19
+"// I18n[DriverPropertiesController.loadingDriverFailed=Loading JDBC driver ""{0}"" failed.\nCan not load driver properties tab.]",0,126
+/** TODO: Spring-inject when this class is a Spring bean */,1,59
+//$NON-NLS-1$,0,13
+// $NON-NLS-1$,0,14
+// FIXED / NONE,0,15
+// tool bar and status bar gets added in propertiesChanged() // depending in the 'tool bar alternate layout' setting.,0,117
+//}}},0,5
+// Loop through source records...,0,33
+// // Constants for the entity type. //,0,39
+"/*
+         * The drag gesture recognizer fires events
+         * in response to drag gestures in a component.
+         */",0,122
+// file name length,0,19
+"// duplicate equal to add, so we continue",0,41
+"// Reflection problems? Should not happen, debug.",0,49
+// copy the source and support files,0,36
+//$NON-NLS-1$,0,13
+"// tabs and newlines get put into the text before this check, // so remove them // This only applies to Popup editing since these chars are // not passed to this level by the in-cell editor.",0,190
+//{{{ getJEditHome() method,0,27
+// canvas size,0,14
+// delete directory recursivly,0,30
+// Tests used to be coded to assume immediate event delivery. // They've been modified to use flush() where needed. - tfm //oldEventPolicy = MFactoryImpl.getEventPolicy(); //MFactoryImpl.setEventPolicy(MFactoryImpl.EVENT_POLICY_IMMEDIATE);,0,239
+//}}},0,5
+// FIrst make sure we save the content of the current GUI (since we // will flush it away):,0,91
+// We know this is a return action now. It must be pointing the // opposite way to the activator.,0,97
+"/**
+ * A window that shows the progress bar and a cancel button. As a convenience to
+ * callers which may be executing on a thread other than the Swing event thread,
+ * all methods use SwingUtilities.invokeLater() or
+ * SwingUtilities.invokeAndWait() to make sure that Swing calls happen on the
+ * appropriate thread.
+ *<p>
+ * TODO: React on the close button as if the Cancel button was pressed.
+ */",1,399
+"// for non-ascii character: make it positive, then escape",0,57
+// we need this public not protected,0,36
+// return aliases not supported in classic translator!,0,54
+// Inner loop,0,13
+//{{{ getLabel() method,0,23
+//$NON-NLS-1$,0,13
+//{{{ _save() method,0,20
+// Mark meta-data to indicate it can't be changed,0,49
+// find out where to place the label...,0,39
+//}}},0,5
+// unimplemented,0,16
+//{{{ searchInDirectory() method,0,32
+//Create checkbox for enabling auto refresh // i18n[oracle.auotRefresh2=Enable auto refresh],0,92
+"/*
+     * @see org.tigris.gef.presentation.Fig#setLineColor(java.awt.Color)
+     */",0,83
+"//setText(""!!"");",0,16
+"/*
+         * @see java.awt.dnd.DropTargetListener#dropActionChanged(java.awt.dnd.DropTargetDragEvent)
+         */",0,114
+// Doesn't even look like a URL? // Maybe it isn't: Ignore the exception.,0,73
+//}}},0,5
+// check an empty dataset,0,25
+//i18n[explainplanexecuter.cardinality=Cardinality],0,51
+// line 1241,0,12
+//i18n[DropTableDialog.schemaLabel=Schema:],0,43
+"// While (LAST), previous sample OK - should loop until false",0,61
+"// add an item entity, if this information is being collected",0,61
+// skip the first column // builder.setLeadingColumnOffset(1); // Add components to the panel:,0,94
+// $NON-NLS-1$,0,14
+// Remember the requested operation.,0,36
+//{{{ Constructor,0,17
+//+ JMX entries - do not change the string values,0,49
+// TODO Ignore for now.,1,23
+//  no component has the focus // -> disable all actions,0,56
+"// HACK: in order to have stdout/err act like ttys and flush always, // we set anything assigned to stdout/stderr to sync",1,121
+//Create spinner for update period,0,34
+"/*
+     * @see org.argouml.ui.explorer.rules.PerspectiveRule#getDependencies(java.lang.Object)
+     */",0,102
+// i18n[mssql.general=General],0,30
+// A child got removed -> stay at this position to // get the next,0,66
+"// look for mangling markers for bound, framed methods in class name",0,68
+//}}},0,5
+"/*
+     * @see org.tigris.gef.presentation.Fig#getLineWidth()
+     */",0,69
+//{{{ check if we have to stop parsing,0,38
+//}}},0,5
+//{{{ DirectoryLoadedAWTRequest class,0,37
+"// Cannot find the file locally, so try the bin directory",0,57
+// String userVisibleName = pluginHandler.getUserVisibleName(id);,0,65
+//{{{ Private members,0,21
+"// if no account exists, return",0,31
+//// ITEM LABEL FONT //////////////////////////////////////////////////////,0,75
+// Check the 2 values obtained via different means,0,50
+"//                    // check arity //                    checkArity(mv, scope);",0,81
+// this makes HyperSearch much faster,0,37
+//{{{ readUnlock() method,0,25
+// $NON-NLS-1$,0,14
+// public IChatMediator getChatMediator() { // return mediator; // },0,68
+// wtf?,1,7
+// [recv],0,9
+/* white spaces */,0,18
+"/*
+     * @see javax.swing.JComponent#setVisible(boolean)
+     */",0,65
+// invoke static __file__,0,25
+// Generate code to push the BSHTHIS or BSHSTATIC field ,0,56
+//}}},0,5
+//}}},0,5
+//{{{ doctypeDecl() method,0,26
+// Create an extent and read in our metamodel (M2 model),0,56
+//////////////////////////////////////////////////////////////// // user interaction methods,0,92
+// find index of path start,0,27
+// TODO: Should be improved so that it's recognized whether there is something selected that can actually be generated // Nothing selected in the diagram,1,153
+"/**
+	 * the utility class that reads and writes release info from/to the release.xml file TODO: Spring-inject
+	 * when this class is a Spring bean
+	 */",1,151
+// promise to implement N,0,25
+// ----------------- // --- Constants --- // -----------------,0,62
+// Deprecated String construction routines,0,42
+// update <destinationTable> s  // set destColumn = ( select f.desc_t1 from <fromTable> f where f.myid = s.myid),0,112
+"// file exists, is normal and is writable, so see if user // wants to overwrite contents of file",0,96
+//{{{ processKeyEvent() method,0,30
+// mark message as answered,0,27
+// Set the name:,0,16
+// optional String-based attribute,0,34
+// how long we had to wait (nanoSeconds),0,40
+"// then the pojo tuplizer, using the dynamic-map tuplizer if no pojo representation is available",0,96
+// if creating new folder,0,25
+//{{{ AbbrevCompare class,0,25
+// Set the tooltip string:,0,26
+// TODO: call config with scope but no frame,1,44
+//{{{ _createInputStream() method,0,33
+"/*
+     * @see org.argouml.uml.ui.UMLModelElementListModel2#buildModelList()
+     */",0,84
+// hack/workaround as sqlquery impl depend on having a key.,1,59
+// Object arg0,0,14
+//}}},0,5
+"/*
+     * @see org.tigris.gef.presentation.Fig#getUseTrapRect()
+     */",0,71
+//}}},0,5
+//}}},0,5
+// Create the editing domain with a special command stack. //,0,61
+/*offset*/,0,10
+// Creates the model from the editor input //,0,45
+// Check to ensure that the tokenizer received is not the default one that // should have been overridden.,0,106
+// some setup...,0,16
+"//error if both are empty, or both are set",0,42
+// Fill 26 of value (byte) -3 // Fill 60 of value (byte) 33,0,59
+// FIXME is this correct for,1,28
+"// using IOOutputStream may not be the most performance way, but it's easy.",1,75
+// apply model,0,14
+"/*
+     * @see org.argouml.ui.explorer.rules.PerspectiveRule#getDependencies(java.lang.Object)
+     */",0,102
+//}}},0,5
+"/*
+		 * (non-Javadoc)
+		 * 
+		 * @see net.sourceforge.squirrel_sql.client.plugin.IPlugin#getVersion()
+		 */",0,107
+// translate g to line up with origin of print area (trans 1),0,61
+// -L Specify the new label on the command line (instead of being prompted),0,75
+"/*
+     * @see org.argouml.uml.ui.UMLModelElementListModel2#buildModelList()
+     */",0,84
+// $NON-NLS-1$,0,14
+//the property attribute must have access to a property file,0,60
+// TODO: gone in UML 2.1,1,24
+// find a valid line closest to the last screen line,0,52
+// Subclasses may override,0,26
+//{{{ setExpandOnInput() method,0,31
+// the proxy (wrapper) type hierarchy,0,37
+// If there isn't something obviously wrong with the arguments... //,0,68
+"/*
+     * @see org.argouml.uml.diagram.ui.UMLDiagram#isRelocationAllowed(java.lang.Object)
+     */",0,98
+// test 3...,0,12
+// contains not,0,15
+// Handling the initialise method,0,33
+// you need a sound.wav in your program folder,0,46
+// create virtual folder (is attached to parentFolder),0,54
+//}}},0,5
+"// We know that it's not interesting to show any code above where // we get involved in event dispatch, so we stop printing the stack // trace when we get as far back as our code.",0,179
+"/**
+     * Add a Comment with the given string
+     *
+     * TODO: Currently a no-op, doc is read only
+     *
+     * @param text the property
+     */",1,149
+//$NON-NLS-1$,0,13
+"/*
+        * it's the script responsability to define the ""metadata"" by invoking
+        * .setName(), .setAuthor() and .setDescription()
+        */",0,148
+//}}},0,5
+"/*
+     * @see org.argouml.notation.providers.NotationProvider#getParsingHelp()
+     */",0,87
+// drawXError,0,13
+// Check that the class is actually different from the one that's directly visible to the JETEmitter. //,0,104
+//$NON-NLS-1$ //$NON-NLS-1$ //$NON-NLS-1$,0,41
+// No body should have been sent,0,32
+//}}},0,5
+// set user-defined properties,0,30
+// END: check d3 and d4,0,23
+"/*
+	 * (non-Javadoc)
+	 * 
+	 * @see org.columba.calendar.ui.calendar.api.ICalendarView#setViewMode(int)
+	 */",0,107
+//}}},0,5
+//}}},0,5
+"/*
+     * First we have the methods for in-cell and Text-table operations
+     */",0,81
+//{{{ getCode() method,0,22
+// $NON-NLS-1$,0,14
+"// add a default value // ""ALTER TABLE $tableName$ "" + // ""ALTER $columnName$ SET DEFAULT $defaultValue$"";",0,106
+"// constructs the ""-url <url> -debug <action> <password>"" portion // of the commmand line",0,89
+// TODO temporary hack to avoid unnecessary bug reports for subclasses,1,70
+// line 1398,0,12
+//$NON-NLS-1$,0,13
+// Ensure that cached ePackage is forgotten.,0,44
+// i18n[SequenceDetailsTab.hint=Display sequence details],0,57
+// insert start and end for html,0,32
+// no text!,0,11
+// Record the input and output streams for closing in case of failure so that handles are not left open. //,0,107
+// TODO: why do we need to remove then add the Fig?,1,51
+"// When the value is changed, the property sheet page doesn't update the property sheet viewer input // before refreshing, and this gets called on the obsolete wrapper. So, we need to read directly from the // model object. // //return needsEncoding(feature) ? encode((String)getEntryValue()) : getEntryValue();",0,311
+"// data was not fully read in before, so try to do that now",0,59
+"/* (non-Javadoc)
+	 * @see com.mockobjects.sql.MockDatabaseMetaData#supportsFullOuterJoins()
+	 */",0,96
+"//add in any extra files. //this is an error in mono, but we do not warn on it as they may fix that outside //the ant build cycle.",0,130
+//}}},0,5
+"/*
+         * Setting up the unzftab entries here is not strictly
+         * necessary, but it does save having to do it later
+         * in a separate pass, and so saves a block's worth of
+         * cache misses.
+         */",0,226
+"/*
+     * Map of translations for tags; only created if there is at least
+     * one tag and a ResourceBundle has been provided.
+     */",0,136
+// Do Nothing,0,13
+// FIXME: Get rid of laziness and handle restricted access elsewhere,1,68
+//}}},0,5
+"/**
+   * Calls <code>caseXXX</code> for each class of the model until one returns a non null result; it yields that result.
+   * <!-- begin-user-doc -->
+   * <!-- end-user-doc -->
+   * @return the first non-null result returned by a <code>caseXXX</code> call.
+   * @generated
+   */",0,281
+"// SampleEvent is not passed JMeterVariables, because they don't make sense for Proxy Recording // TODO - is this the correct threadgroup name?",1,143
+//}}},0,5
+// the other obj has not read the data yet.,0,43
+// If there is an adapter of the correct type... //,0,51
+// opcodes                  // visit method (- = idem),0,54
+//}}},0,5
+// Register package validator,0,29
+"//On VMS platform, we need to create a special java options file //containing the arguments and classpath for the javac command. //The special file is supported by the ""-V"" switch on the VMS JVM.",0,195
+"// If no webxml file is specified, it's an error.",0,49
+"// If the first value is null, the second value must be null. //",0,64
+// so if view is closed in the meantime...,0,42
+"/*
+   * Javadoc copied from interface.
+   */",0,44
+// nothing to do,0,16
+// Join the two multiparts,0,26
+"//@GuardedBy(""myTotals"")",0,24
+//ListChangeImpl,0,16
+// XXX what is this for?,1,24
+// Empty,0,8
+"// NIF: unTruthTest(Model.getFacade().isAMethod(o), //	Model.getMetaTypes().getMethod());",0,89
+//{{{ Private members,0,21
+//}}},0,5
+// Create a change event for the corresponding property,0,55
+"/*
+     * @see org.argouml.uml.diagram.ui.FigEdgeModelElement#getNotationProviderType()
+     */",0,95
+// Set the User-Agent string used by the java.net HTTP handler,0,62
+// roll correctly over years,0,28
+// targetIndex --> srcIndex,0,27
+// Convert attributes of with EClass type to references. //,0,59
+// initialize MimeHeader as RFC822-compliant-message,0,52
+/** TODO: Spring-inject when this class is a Spring bean */,1,59
+"/*
+     * @see org.argouml.uml.ui.UMLUserInterfaceComponent#targetChanged()
+     */",0,83
+// line 558,0,11
+// try null calendar,0,20
+//}}},0,5
+"// processes seem to have some peculiar locking sequences, so we // need to ensure nobody is trying to close/destroy while we are",0,129
+// add animated icon to right-hand side corner of menubar,0,57
+// Reset the background to the colour that the current Look // and Feel uses for internal frames.,0,97
+//{{{ replaceOne() method,0,25
+// this is expected,0,19
+"/*
+		* For Oracle 10g we could say something like : 
+		* 
+		* ""where XMLSERIALIZE(CONTENT "" + _colDef.getLabel() +"") like '<value>'""
+		* 
+		* This doesn't appear to work on Oracle 9i at the moment, so we will
+		* avoid using this column in any where clause if the value is non-null,
+		* which is what the superclass implementation does.
+		* 
+		* TODO: Find a way to do this for both versions or split this behavior
+		* so that it works on 10g and is disabled on 9i.
+		*/",1,470
+"/*
+	 * (non-Javadoc)
+	 * 
+	 * @see net.sourceforge.squirrel_sql.plugins.dbcopy.dialects.HibernateDialect#getMaxPrecision(int)
+	 */",0,130
+// set start and end date,0,25
+"// we expand those that are non-empty, and // remove those that are empty",0,73
+//}}},0,5
+// // Constructors //,0,21
+/* browser.getBrowserView().getTable().addKeyListener(new KeyHandler()); */,0,75
+// adjust result for any exceptions in the result calculated,0,60
+// Add the value back in the right place. //,0,44
+// HELLA IMPORTANT OPTIMIZATION!!!,0,34
+"/*
+                  Calculate the cost of this group as coded
+                  by each of the coding tables.
+                */",0,129
+// additional ctor for processing tests which use int parameters,0,64
+// delete when null => original value,0,37
+// record the plot area...,0,26
+// Guaranteed to return a non-null array,0,40
+// the contract of EntityTuplizer.determineConcreteSubclassEntityName says that returning null // is an indication that the specified entity-name (this.getEntityName) should be used.,0,182
+// NOOP,0,7
+/* Set up the property panels for deployment diagrams: */,0,57
+"/*
+	     * @see java.awt.event.ActionListener#actionPerformed(java.awt.event.ActionEvent)
+	     */",0,98
+// ================================================================,0,67
+// Get the transaction sample result,0,36
+//}}},0,5
+// Register with the save action with other subsystems so that // any changes in those subsystems will enable the // save button/menu item etc.,0,143
+// We need a method (operation implementation) // to store the method body.,0,75
+// depending on the implementation the actual RE won't // get instantiated in the constructor.,0,94
+//$NON-NLS-1$,0,13
+"// If repeat was true originally, clear it // Otherwise it might have been set by the action, etc",0,97
+// use selected buddy,0,21
+// Clone all remaining nodes,0,28
+// Exact match,0,14
+// those would fail because of the way BuildFileTest captures output,0,68
+//{{{ setNoWordSep() method,0,27
+// Test sending data with default encoding,0,42
+"/*
+     * @see javax.swing.Icon#getIconHeight()
+     */",0,55
+//}}},0,5
+//}}},0,5
+// FIXME: Ruby 1.9 post args code needs to come here,1,52
+"// todo : should really move this log statement to CollectionType, where this is used from...",1,93
+// $NON-NLS-1$,0,14
+// vars will be null on TestPlan,0,32
+"// The 5 main component : 2 label, a panel for langage , a panel with // button, a textarea",0,91
+//ComposerModel model = (ComposerModel) // ((ComposerController)getFrameController()).getModel();,0,97
+// make sure setting the new isolation mode is done in an auto committed transaction,0,84
+// Add Reserved Characters,0,26
+// line 604,0,11
+// end of inner class,0,21
+// i18n[laf.statusFontEanbled=Enabled],0,38
+"// If we have buffered replace data, use it.",0,44
+// can't set TC classloader,0,27
+"/*
+     * @see java.awt.event.WindowListener#windowIconified(java.awt.event.WindowEvent)
+     */",0,96
+// suppress (value defaults to null),0,36
+"/*
+     * @see org.argouml.uml.ui.AbstractActionNavigate#navigateTo(java.lang.Object)
+     */",0,93
+// if the added edge is a Create Message it will affect the position // of the ClassifierRole so it should be repositioned,0,122
+//get 'em in the right order (not that it really matters),0,57
+// Guaranteed to be non-null.,0,29
+"// for specific-index cases, clean up non-expression values",0,59
+// while more labels or blocks and haven't hit return control,0,61
+// Guaranteed to return a non-null array,0,40
+//do nothing,0,12
+//$NON-NLS-1$,0,13
+// lower bounds are the same,0,28
+"/*
+     * Test Functions - create the suite of tests
+     */",0,60
+// try negative key index,0,25
+// Object#to_a is obsolete.  We match Ruby's hack until to_a goes away.  Then we can  // remove this hack too.,1,110
+//}}},0,5
+//}}},0,5
+//}}},0,5
+// trim extension to try other options,0,38
+//Expand all of the rows in the tree if the root is non null.,0,61
+"// i18n[HibernateConfigController.ReallyRemoveConfig=Are you sure you want to delete configuration ""{0}"".]",0,106
+"/*
+     * @see java.awt.event.MouseListener#mouseEntered(java.awt.event.MouseEvent)
+     */",0,91
+//i18n[CreateDriverAction.error.selectingwindow=Error selecting window],0,71
+// may be the empty string,0,26
+//$NON-NLS-1$,0,13
+// For converters to use,0,24
+//{{{ goToBufferEnd() method,0,28
+"/**
+   * Calls <code>caseXXX</code> for each class of the model until one returns a non null result; it yields that result.
+   * <!-- begin-user-doc -->
+   * <!-- end-user-doc -->
+   * @return the first non-null result returned by a <code>caseXXX</code> call.
+   * @generated
+   */",0,281
+// truncate string,0,18
+// assert that the model element that depends on the profile is  // consistent,0,78
+// default: sans serif //$NON-NLS-1$,0,36
+// $NON-NLS-1$,0,14
+// Probably a missing jar,0,25
+//}}},0,5
+//}}},0,5
+// call isTrue on the result,0,28
+// set flags,0,12
+"// As a connection is held by only one thread, we cannot already have a  // preparedStatementMap put by another thread",0,118
+"/*
+     * @see org.argouml.uml.diagram.state.ui.FigHistoryState#getH()
+     */",0,78
+// line 896,0,11
+// FIXME //this.image = SerialUtilities.readImage(stream);,1,58
+// $NON-NLS-1$ // $NON-NLS-1$ // $NON-NLS-1$ // $NON-NLS-1$ // $NON-NLS-1$ // $NON-NLS-1$ // $NON-NLS-1$ // $NON-NLS-1$ // $NON-NLS-1$ // $NON-NLS-1$ // $NON-NLS-1$ // $NON-NLS-1$ // $NON-NLS-1$,0,194
+/* current stack len = 0 */,0,27
+// flags // 4 bytes of modified time,0,36
+//}}},0,5
+"// SELECT last_number, max_value, min_value, cache_size, increment_by, cycle_flag // FROM USER_SEQUENCES WHERE sequence_name = ?;",0,129
+// turn off SSL for the future,0,30
+/** Are there are available data flow facts to run this problem? SSS FIXME: Silly optimization? */,1,98
+"// ALTER TABLE tableName // ADD CONSTRAINT constraintName UNIQUE (column1, column2);",0,84
+// check box for whether to read contents during table load or not,0,66
+// close composer view,0,22
+//}}},0,5
+"// No need to log normally, as we set the status // $NON-NLS-1$",0,63
+// we have the form: trim(from trimSource). //      This is functionally equivalent to trim(trimSource) // EARLY EXIT!!!!,0,121
+// Now try mode.<mode>.<property>,0,33
+// search all messages which match this filter,0,46
+// use Algorithm specified by classname,0,39
+// create a dataset...,0,22
+// do the same for the XmlElement of child,0,42
+// Create a FormLayout instance. //$NON-NLS-1$,0,46
+// $NON-NLS-1$,0,14
+//no point doing this if NONE was requested,0,43
+//{{{ Private members,0,21
+"/*
+		 * Internal class for handling key events during editing
+		 * of both JTextField and JTextArea.
+		 */",0,106
+"// for MacOSX we can't use the CTRL key for mouse drags, see: // http://developer.apple.com/qa/qa2004/qa1362.html",0,113
+//i18n[FormatterSourceTab.noSourceAvailable=No object source code is  //available],0,82
+//Ignore - we will use the defaults.,0,36
+"/* If a message has a name and a named operation 
+         * and an expression with no script,
+         * then show the operation: */",0,133
+// Use for ComboBox Source Address Type. Preserve order (specially with localization),0,85
+"// TODO i18n ""Close"" button",1,27
+// extra field,0,14
+// Expanders - trigger and index expanders are added inside the table // expander,0,81
+/* Testing: does not fire. */,0,29
+//}}},0,5
+// delete any cached information,0,32
+// set columba.color flag,0,25
+"// Use a SwtPaintCanvas to show the color, note that we must set the // heightHint.",0,83
+//To change body of implemented methods use File | Settings | File Templates.,0,77
+// throw BuildException on error,0,32
+// replace all occurances of OFFENDER with the name of the // first offender,0,76
+// builder2.addGlue();,0,22
+// keep track of remote tests,0,29
+//}}},0,5
+//}}},0,5
+//ignore,0,8
+"// the path to the plugin.xml descriptor file is: // ""<config-folder>/plugins/<plugin-id>/plugin.xml",0,100
+// Test to see if correct suffix was used to create the tempfile.,0,65
+// TODO: figure out why bind variables aren't working,1,53
+// i'th argument,0,16
+// Options,0,10
