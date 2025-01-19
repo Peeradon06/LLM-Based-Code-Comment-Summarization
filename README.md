@@ -17,5 +17,5 @@ LLM-Based Code Comment Summarization: Efficacy Evaluation and Challenges
 * T5
 
 ### Requirements
-* Pytorch 2.5.1
-* Transformers 4.47.0
+* Pytorch 
+* Transformers 
