@@ -18,4 +18,9 @@ LLM-Based Code Comment Summarization: Efficacy Evaluation and Challenges
 
 ### Requirements
 * Pytorch 
-* Transformers 
+* Transformers
+
+## Citation
+If you find this repository useful or being used within your research, please cite this paper as:
+
+P. Sukkasem, C. Soomlek and C. Dechsupa, "Llm-Based Code Comment Summarization: Efficacy Evaluation and Challenges," 2025 17th International Conference on Knowledge and Smart Technology (KST), Bangkok, Thailand, 2025, pp. 335-340, doi: 10.1109/KST65016.2025.11003343.
